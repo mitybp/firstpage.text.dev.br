@@ -25,6 +25,7 @@ body{
     align-items: center;
     justify-content: space-evenly;
     gap: 20px;
+    box-shadow: 0 0 10px 2px #131313;
 }
 p.logo{
     background-color: #5e18ea;
@@ -33,6 +34,7 @@ p.logo{
     color: #fff;
     text-decoration: none;
     font-size: 40px;
+    box-shadow: 0 0 10px 2px #5e18ea;
 }
 a{
     color: #fff;
